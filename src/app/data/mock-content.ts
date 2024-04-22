@@ -46,5 +46,5 @@ export const CONTENT=[{
     courseCode:"MAD210",
     birthDate: new Date(1980, 9, 7),
     grade:"F",
-    profilePic:"/assets/Person6.png"
+    profilePic:"/assets/Person1.png"
   }];
